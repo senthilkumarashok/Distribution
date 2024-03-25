@@ -1,6 +1,6 @@
 # Distribution
 
-Bionomial Distribution
+## Bionomial Distribution
 
 Probability of getting P(x) in n trails = nCx * (p ^ x) * (q ^ (n-x))
 
